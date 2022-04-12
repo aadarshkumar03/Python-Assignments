@@ -18,3 +18,10 @@ def factorial(num):
 
 num = int(input("Enter a Number: "))
 print(factorial(num))
+
+
+# We can find factorial of any number using pre-defined module math
+'''
+import math
+print(math.factorial(num))
+'''
